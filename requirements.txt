@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+scikit-learn==1.6.1
+pandas
+numpy
+python-dotenv
+joblib
+requests
+beautifulsoup4
